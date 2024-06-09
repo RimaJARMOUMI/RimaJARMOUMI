@@ -1,12 +1,8 @@
 ## Hi 👋, i'm Karima
 
 <h3 align="center">A passionate developer from Morocco</h3>
-
-  
-  <p align="center">  
     
-   [![kjarmoum's 42 stats](https://badge.mediaplus.ma/greenbinary/kjarmoum)](https://github.com/oakoudad/badge42)
-    </p>
+   [![kjarmoum's 42 stats](https://badge.mediaplus.ma/greenbinary/kjarmoum)]()
     
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning PHP/Laravel 
