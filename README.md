@@ -1,7 +1,5 @@
 ## Hi 👋, i'm Karima
 
-<h3 align="center">A passionate developer from Morocco</h3>
-    
    [![kjarmoum's 42 stats](https://badge.mediaplus.ma/greenbinary/kjarmoum)]()
     
 - 🔭 I’m currently working on ...
