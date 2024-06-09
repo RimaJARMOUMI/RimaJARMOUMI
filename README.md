@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate developer from Morocco</h3>
 
-  [![<kjarmoum>'s 42 stats](https://badge.mediaplus.ma/greenbinary/<kjarmoum>)](https://github.com/oakoudad/badge42)
+  [![kjarmoum's 42 stats](https://badge.mediaplus.ma/greenbinary/kjarmoum)](https://github.com/oakoudad/badge42)
     
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning PHP/Laravel 
